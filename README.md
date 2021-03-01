@@ -1,2 +1,2 @@
 # echo-server-kt
-echo server with kotlin
+echo server with Ktor
